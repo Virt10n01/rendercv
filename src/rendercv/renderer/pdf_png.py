@@ -6,7 +6,7 @@ import rendercv_fonts
 import typst
 
 from rendercv.exception import RenderCVInternalError
-from rendercv.schema.models.rendercv_model import RenderCVModel
+from rendercv.schema.models.rendercvmodel_locale import RenderCVModel
 
 from .path_resolver import resolve_rendercv_file_path
 
